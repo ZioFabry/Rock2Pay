@@ -1,0 +1,34 @@
+body {
+    padding: 1em;
+}
+.container {
+    width: 95%;
+    margin: 0 auto;
+}
+h1 {
+    margin-bottom: 1em;
+}
+h2 {
+    margin-bottom: 1em;
+}
+label {
+    margin-bottom: 1em;
+	margin-left: 1em;
+}
+input {
+    padding:5px;
+    width: 50%;
+    margin-bottom: 1em;
+	margin-left: 1em;
+}
+button {
+    padding: 0.5em 0.5em;
+	margin-left: 1em;
+    
+}
+
+.panel-group > .panel-default > .panel-heading {
+  color: #333;
+  background-color: cyan;
+  border-color: #ddd;
+}
